@@ -6,9 +6,9 @@
 
 | หัวข้อ | รายละเอียด |
 | --- | --- |
-| ชื่อชุดข้อมูล | IT Salary Survey EU 2020 |
-| แหล่งที่มาเดิม | https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-for-eu-region |
-| ประเภทข้อมูล | ข้อมูลแบบสำรวจที่ผู้ตอบรายงานเอง (self-reported) 1 แถวต่อผู้ตอบ 1 คน |
+| ชื่อชุดข้อมูล | Video Game Sales |
+| แหล่งที่มาเดิม | [https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-for-eu-region](https://www.kaggle.com/datasets/gregorut/videogamesales) |
+| ประเภทข้อมูล | ชุดข้อมูลนี้ประกอบด้วยรายชื่อวิดีโอเกมที่มียอดขายมากกว่า 100,000 ชุด โดยได้มาจากการดึงข้อมูลจากเว็บไซต์vgchartz.com |
 
 ## 2. ไฟล์ในโฟลเดอร์นี้
 
